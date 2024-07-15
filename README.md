@@ -1,4 +1,4 @@
-# ROS-W1-Task-1
+# ROS-W2-Task-1
 The steps that I took to installing Linux Ubuntu then ROS neotic &amp; foxy.
 ## Linux 
 I got the iso for Ubuntu [Here](https://releases.ubuntu.com/20.04/),
