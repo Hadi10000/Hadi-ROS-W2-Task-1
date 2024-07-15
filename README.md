@@ -10,5 +10,6 @@ With the new terminal, I upgraded the system packages and got to work
 I then repeated the process with a separate VM for the ROS foxy installation.
 ## ROS neotic
 ### One step at a time
-By following the steps provided [Here](http://wiki.ros.org/noetic/Installation/Ubuntu)
-I managed to install this version of ROS but not without faults
+By following the steps provided [Here](http://wiki.ros.org/noetic/Installation/Ubuntu),
+I managed to install this version of ROS but not without faults the keys provided in step 1.3 were no longer working the new ones can be found [Here](https://discourse.ros.org/t/new-gpg-keys-deployed-for-packages-ros-org/9454/1),
+then finally testing with the roscore command gave the expected version.
