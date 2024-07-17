@@ -17,4 +17,7 @@ By following the steps provided [Here](http://wiki.ros.org/noetic/Installation/U
 I managed to install this version of ROS but not without faults the keys provided in step 1.3 were no longer working the new ones can be found [Here](https://discourse.ros.org/t/new-gpg-keys-deployed-for-packages-ros-org/9454/1), <br />
 then finally testing with the roscore command gave the expected version. <br />
 ## ROS foxy
-after setting up a seperate Ubuntu VM I followed the steps [Here](https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html)
+after setting up a seperate Ubuntu VM I followed the steps [Here](https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html) <br />
+I also added the keys from the perovius installation before proceding to be on the safe side <br />
+after having a bit of truble installing python3 it worked I tested it with the included talker demo.
+![image](https://github.com/user-attachments/assets/9df3cac0-4d0a-46e2-8472-44a27936ef1d)
