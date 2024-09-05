@@ -3,7 +3,7 @@ The steps that I took to installing Linux Ubuntu then ROS neotic &amp; foxy.
 ## Linux ![image](https://github.com/user-attachments/assets/542f8a28-138f-4e8e-abb1-344f6be0656d)
 
 I got the iso for Ubuntu [Here](https://releases.ubuntu.com/20.04/), <br />
-and Oracle VM [Here](https://releases.ubuntu.com/20.04/), <br />
+and Oracle VM [Here](https://www.virtualbox.org/wiki/Downloads), <br />
 Virtual box recognized the iso and did an unattended install <br />
 afterward, I had to add my local user to the sudoers file, <br />
 then I installed an alternative Terminal as the included one was unresponsive, <br />
